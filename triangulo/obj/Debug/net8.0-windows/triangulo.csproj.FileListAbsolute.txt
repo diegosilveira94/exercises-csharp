@@ -1,0 +1,16 @@
+C:\Users\diego.silveira\OneDrive - SENAC-SC\2025_1\Introdução a Programação\C#\3. PROGRAMAS\EXERCICIOS\exercises-csharp\triangulo\obj\Debug\net8.0-windows\triangulo.Form1.resources
+C:\Users\diego.silveira\OneDrive - SENAC-SC\2025_1\Introdução a Programação\C#\3. PROGRAMAS\EXERCICIOS\exercises-csharp\triangulo\obj\Debug\net8.0-windows\triangulo.csproj.GenerateResource.cache
+C:\Users\diego.silveira\OneDrive - SENAC-SC\2025_1\Introdução a Programação\C#\3. PROGRAMAS\EXERCICIOS\exercises-csharp\triangulo\obj\Debug\net8.0-windows\triangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego.silveira\OneDrive - SENAC-SC\2025_1\Introdução a Programação\C#\3. PROGRAMAS\EXERCICIOS\exercises-csharp\triangulo\obj\Debug\net8.0-windows\triangulo.AssemblyInfoInputs.cache
+C:\Users\diego.silveira\OneDrive - SENAC-SC\2025_1\Introdução a Programação\C#\3. PROGRAMAS\EXERCICIOS\exercises-csharp\triangulo\obj\Debug\net8.0-windows\triangulo.AssemblyInfo.cs
+C:\Users\diego.silveira\OneDrive - SENAC-SC\2025_1\Introdução a Programação\C#\3. PROGRAMAS\EXERCICIOS\exercises-csharp\triangulo\obj\Debug\net8.0-windows\triangulo.csproj.CoreCompileInputs.cache
+C:\Users\diego.silveira\OneDrive - SENAC-SC\2025_1\Introdução a Programação\C#\3. PROGRAMAS\EXERCICIOS\exercises-csharp\triangulo\bin\Debug\net8.0-windows\triangulo.exe
+C:\Users\diego.silveira\OneDrive - SENAC-SC\2025_1\Introdução a Programação\C#\3. PROGRAMAS\EXERCICIOS\exercises-csharp\triangulo\bin\Debug\net8.0-windows\triangulo.deps.json
+C:\Users\diego.silveira\OneDrive - SENAC-SC\2025_1\Introdução a Programação\C#\3. PROGRAMAS\EXERCICIOS\exercises-csharp\triangulo\bin\Debug\net8.0-windows\triangulo.runtimeconfig.json
+C:\Users\diego.silveira\OneDrive - SENAC-SC\2025_1\Introdução a Programação\C#\3. PROGRAMAS\EXERCICIOS\exercises-csharp\triangulo\bin\Debug\net8.0-windows\triangulo.dll
+C:\Users\diego.silveira\OneDrive - SENAC-SC\2025_1\Introdução a Programação\C#\3. PROGRAMAS\EXERCICIOS\exercises-csharp\triangulo\bin\Debug\net8.0-windows\triangulo.pdb
+C:\Users\diego.silveira\OneDrive - SENAC-SC\2025_1\Introdução a Programação\C#\3. PROGRAMAS\EXERCICIOS\exercises-csharp\triangulo\obj\Debug\net8.0-windows\triangulo.dll
+C:\Users\diego.silveira\OneDrive - SENAC-SC\2025_1\Introdução a Programação\C#\3. PROGRAMAS\EXERCICIOS\exercises-csharp\triangulo\obj\Debug\net8.0-windows\refint\triangulo.dll
+C:\Users\diego.silveira\OneDrive - SENAC-SC\2025_1\Introdução a Programação\C#\3. PROGRAMAS\EXERCICIOS\exercises-csharp\triangulo\obj\Debug\net8.0-windows\triangulo.pdb
+C:\Users\diego.silveira\OneDrive - SENAC-SC\2025_1\Introdução a Programação\C#\3. PROGRAMAS\EXERCICIOS\exercises-csharp\triangulo\obj\Debug\net8.0-windows\triangulo.genruntimeconfig.cache
+C:\Users\diego.silveira\OneDrive - SENAC-SC\2025_1\Introdução a Programação\C#\3. PROGRAMAS\EXERCICIOS\exercises-csharp\triangulo\obj\Debug\net8.0-windows\ref\triangulo.dll
