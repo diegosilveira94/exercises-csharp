@@ -1,0 +1,16 @@
+C:\Users\diego.silveira\OneDrive - SENAC-SC\2025_1\Introdução a Programação\C#\Limites\bin\Debug\net8.0-windows\Limites.exe
+C:\Users\diego.silveira\OneDrive - SENAC-SC\2025_1\Introdução a Programação\C#\Limites\bin\Debug\net8.0-windows\Limites.deps.json
+C:\Users\diego.silveira\OneDrive - SENAC-SC\2025_1\Introdução a Programação\C#\Limites\bin\Debug\net8.0-windows\Limites.runtimeconfig.json
+C:\Users\diego.silveira\OneDrive - SENAC-SC\2025_1\Introdução a Programação\C#\Limites\bin\Debug\net8.0-windows\Limites.dll
+C:\Users\diego.silveira\OneDrive - SENAC-SC\2025_1\Introdução a Programação\C#\Limites\bin\Debug\net8.0-windows\Limites.pdb
+C:\Users\diego.silveira\OneDrive - SENAC-SC\2025_1\Introdução a Programação\C#\Limites\obj\Debug\net8.0-windows\Limites.Form1.resources
+C:\Users\diego.silveira\OneDrive - SENAC-SC\2025_1\Introdução a Programação\C#\Limites\obj\Debug\net8.0-windows\Limites.csproj.GenerateResource.cache
+C:\Users\diego.silveira\OneDrive - SENAC-SC\2025_1\Introdução a Programação\C#\Limites\obj\Debug\net8.0-windows\Limites.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego.silveira\OneDrive - SENAC-SC\2025_1\Introdução a Programação\C#\Limites\obj\Debug\net8.0-windows\Limites.AssemblyInfoInputs.cache
+C:\Users\diego.silveira\OneDrive - SENAC-SC\2025_1\Introdução a Programação\C#\Limites\obj\Debug\net8.0-windows\Limites.AssemblyInfo.cs
+C:\Users\diego.silveira\OneDrive - SENAC-SC\2025_1\Introdução a Programação\C#\Limites\obj\Debug\net8.0-windows\Limites.csproj.CoreCompileInputs.cache
+C:\Users\diego.silveira\OneDrive - SENAC-SC\2025_1\Introdução a Programação\C#\Limites\obj\Debug\net8.0-windows\Limites.dll
+C:\Users\diego.silveira\OneDrive - SENAC-SC\2025_1\Introdução a Programação\C#\Limites\obj\Debug\net8.0-windows\refint\Limites.dll
+C:\Users\diego.silveira\OneDrive - SENAC-SC\2025_1\Introdução a Programação\C#\Limites\obj\Debug\net8.0-windows\Limites.pdb
+C:\Users\diego.silveira\OneDrive - SENAC-SC\2025_1\Introdução a Programação\C#\Limites\obj\Debug\net8.0-windows\Limites.genruntimeconfig.cache
+C:\Users\diego.silveira\OneDrive - SENAC-SC\2025_1\Introdução a Programação\C#\Limites\obj\Debug\net8.0-windows\ref\Limites.dll

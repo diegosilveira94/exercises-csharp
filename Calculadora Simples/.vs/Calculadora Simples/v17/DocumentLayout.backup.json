@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diego.silveira\\OneDrive - SENAC-SC\\2025_1\\Introdu\u00E7\u00E3o a Programa\u00E7\u00E3o\\C#\\Calculadora Simples\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A3D101F-B15D-46A9-B1B5-CE05ED8BA63A}|Calculadora Simples.csproj|c:\\users\\diego.silveira\\onedrive - senac-sc\\2025_1\\introdu\u00E7\u00E3o a programa\u00E7\u00E3o\\c#\\calculadora simples\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A3D101F-B15D-46A9-B1B5-CE05ED8BA63A}|Calculadora Simples.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A3D101F-B15D-46A9-B1B5-CE05ED8BA63A}|Calculadora Simples.csproj|c:\\users\\diego.silveira\\onedrive - senac-sc\\2025_1\\introdu\u00E7\u00E3o a programa\u00E7\u00E3o\\c#\\calculadora simples\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5A3D101F-B15D-46A9-B1B5-CE05ED8BA63A}|Calculadora Simples.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A3D101F-B15D-46A9-B1B5-CE05ED8BA63A}|Calculadora Simples.csproj|c:\\users\\diego.silveira\\onedrive - senac-sc\\2025_1\\introdu\u00E7\u00E3o a programa\u00E7\u00E3o\\c#\\calculadora simples\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A3D101F-B15D-46A9-B1B5-CE05ED8BA63A}|Calculadora Simples.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\diego.silveira\\OneDrive - SENAC-SC\\2025_1\\Introdu\u00E7\u00E3o a Programa\u00E7\u00E3o\\C#\\Calculadora Simples\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\diego.silveira\\OneDrive - SENAC-SC\\2025_1\\Introdu\u00E7\u00E3o a Programa\u00E7\u00E3o\\C#\\Calculadora Simples\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAiwDIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T00:14:37.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\diego.silveira\\OneDrive - SENAC-SC\\2025_1\\Introdu\u00E7\u00E3o a Programa\u00E7\u00E3o\\C#\\Calculadora Simples\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\diego.silveira\\OneDrive - SENAC-SC\\2025_1\\Introdu\u00E7\u00E3o a Programa\u00E7\u00E3o\\C#\\Calculadora Simples\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAswEQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T23:51:52.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\diego.silveira\\OneDrive - SENAC-SC\\2025_1\\Introdu\u00E7\u00E3o a Programa\u00E7\u00E3o\\C#\\Calculadora Simples\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\diego.silveira\\OneDrive - SENAC-SC\\2025_1\\Introdu\u00E7\u00E3o a Programa\u00E7\u00E3o\\C#\\Calculadora Simples\\Form1.cs [Projeto]",
+              "RelativeToolTip": "Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T23:50:27.078Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+C:\Users\diego.silveira\OneDrive - SENAC-SC\2025_1\Introdução a Programação\C#\Calculadora Simples\bin\Debug\net8.0-windows\Calculadora Simples.exe
+C:\Users\diego.silveira\OneDrive - SENAC-SC\2025_1\Introdução a Programação\C#\Calculadora Simples\bin\Debug\net8.0-windows\Calculadora Simples.deps.json
+C:\Users\diego.silveira\OneDrive - SENAC-SC\2025_1\Introdução a Programação\C#\Calculadora Simples\bin\Debug\net8.0-windows\Calculadora Simples.runtimeconfig.json
+C:\Users\diego.silveira\OneDrive - SENAC-SC\2025_1\Introdução a Programação\C#\Calculadora Simples\bin\Debug\net8.0-windows\Calculadora Simples.dll
+C:\Users\diego.silveira\OneDrive - SENAC-SC\2025_1\Introdução a Programação\C#\Calculadora Simples\bin\Debug\net8.0-windows\Calculadora Simples.pdb
+C:\Users\diego.silveira\OneDrive - SENAC-SC\2025_1\Introdução a Programação\C#\Calculadora Simples\obj\Debug\net8.0-windows\Calculadora_Simples.Form1.resources
+C:\Users\diego.silveira\OneDrive - SENAC-SC\2025_1\Introdução a Programação\C#\Calculadora Simples\obj\Debug\net8.0-windows\Calculadora Simples.csproj.GenerateResource.cache
+C:\Users\diego.silveira\OneDrive - SENAC-SC\2025_1\Introdução a Programação\C#\Calculadora Simples\obj\Debug\net8.0-windows\Calculadora Simples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego.silveira\OneDrive - SENAC-SC\2025_1\Introdução a Programação\C#\Calculadora Simples\obj\Debug\net8.0-windows\Calculadora Simples.AssemblyInfoInputs.cache
+C:\Users\diego.silveira\OneDrive - SENAC-SC\2025_1\Introdução a Programação\C#\Calculadora Simples\obj\Debug\net8.0-windows\Calculadora Simples.AssemblyInfo.cs
+C:\Users\diego.silveira\OneDrive - SENAC-SC\2025_1\Introdução a Programação\C#\Calculadora Simples\obj\Debug\net8.0-windows\Calculadora Simples.csproj.CoreCompileInputs.cache
+C:\Users\diego.silveira\OneDrive - SENAC-SC\2025_1\Introdução a Programação\C#\Calculadora Simples\obj\Debug\net8.0-windows\Calculadora Simples.dll
+C:\Users\diego.silveira\OneDrive - SENAC-SC\2025_1\Introdução a Programação\C#\Calculadora Simples\obj\Debug\net8.0-windows\refint\Calculadora Simples.dll
+C:\Users\diego.silveira\OneDrive - SENAC-SC\2025_1\Introdução a Programação\C#\Calculadora Simples\obj\Debug\net8.0-windows\Calculadora Simples.pdb
+C:\Users\diego.silveira\OneDrive - SENAC-SC\2025_1\Introdução a Programação\C#\Calculadora Simples\obj\Debug\net8.0-windows\Calculadora Simples.genruntimeconfig.cache
+C:\Users\diego.silveira\OneDrive - SENAC-SC\2025_1\Introdução a Programação\C#\Calculadora Simples\obj\Debug\net8.0-windows\ref\Calculadora Simples.dll
