@@ -7,26 +7,20 @@ namespace tabuada
             InitializeComponent();
         }
 
-        private void btnCalcular_Click(object sender, EventArgs e)
+        private void lbResult_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e) // botão tabuada
         {
             int num, cont, tab;
-            num = Convert.ToInt32(txtNumero.Text);
-            for (cont = 0; cont <= 10; cont++)
-            {
-                tab = num * cont;
-                lstTabuada.Items.Add(num.ToString() + " x " + cont.ToString() + " = " + tab.ToString());
-            }
-        }
-
-        private void btnSair_Click(object sender, EventArgs e)
-        {
-            Application.Exit();
-        }
-
-        private void btnLimpar_Click(object sender, EventArgs e)
-        {
-            txtNumero.Clear();
-            lstTabuada.Items.Clear();
+            num = Convert.
         }
     }
 }

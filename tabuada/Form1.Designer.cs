@@ -28,84 +28,84 @@
         /// </summary>
         private void InitializeComponent()
         {
-            lblNumero = new Label();
-            txtNumero = new TextBox();
-            lstTabuada = new ListBox();
-            btnCalcular = new Button();
-            btnLimpar = new Button();
-            btnSair = new Button();
+            label1 = new Label();
+            textBox1 = new TextBox();
+            lbResult = new ListBox();
+            button1 = new Button();
+            button2 = new Button();
+            button3 = new Button();
             SuspendLayout();
             // 
-            // lblNumero
+            // label1
             // 
-            lblNumero.AutoSize = true;
-            lblNumero.Font = new Font("Segoe UI", 14F, FontStyle.Bold);
-            lblNumero.Location = new Point(66, 27);
-            lblNumero.Name = "lblNumero";
-            lblNumero.Size = new Size(91, 25);
-            lblNumero.TabIndex = 0;
-            lblNumero.Text = "Número:";
+            label1.AutoSize = true;
+            label1.Font = new Font("Montserrat", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label1.Location = new Point(42, 21);
+            label1.Name = "label1";
+            label1.Size = new Size(84, 25);
+            label1.TabIndex = 0;
+            label1.Text = "Número:";
             // 
-            // txtNumero
+            // textBox1
             // 
-            txtNumero.Location = new Point(162, 30);
-            txtNumero.Name = "txtNumero";
-            txtNumero.Size = new Size(100, 23);
-            txtNumero.TabIndex = 1;
+            textBox1.Location = new Point(124, 22);
+            textBox1.Name = "textBox1";
+            textBox1.Size = new Size(100, 23);
+            textBox1.TabIndex = 1;
             // 
-            // lstTabuada
+            // lbResult
             // 
-            lstTabuada.FormattingEnabled = true;
-            lstTabuada.ItemHeight = 15;
-            lstTabuada.Location = new Point(23, 87);
-            lstTabuada.Name = "lstTabuada";
-            lstTabuada.Size = new Size(191, 334);
-            lstTabuada.TabIndex = 2;
+            lbResult.FormattingEnabled = true;
+            lbResult.ItemHeight = 15;
+            lbResult.Location = new Point(12, 66);
+            lbResult.Name = "lbResult";
+            lbResult.Size = new Size(141, 304);
+            lbResult.TabIndex = 2;
+            lbResult.SelectedIndexChanged += lbResult_SelectedIndexChanged;
             // 
-            // btnCalcular
+            // button1
             // 
-            btnCalcular.Font = new Font("Arial Black", 9.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            btnCalcular.Location = new Point(231, 261);
-            btnCalcular.Name = "btnCalcular";
-            btnCalcular.Size = new Size(99, 43);
-            btnCalcular.TabIndex = 3;
-            btnCalcular.Text = "CALCULAR";
-            btnCalcular.UseVisualStyleBackColor = true;
-            btnCalcular.Click += btnCalcular_Click;
+            button1.Font = new Font("Montserrat", 9.749999F, FontStyle.Bold);
+            button1.Location = new Point(168, 105);
+            button1.Name = "button1";
+            button1.Size = new Size(93, 37);
+            button1.TabIndex = 3;
+            button1.Text = "&TABUADA";
+            button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
             // 
-            // btnLimpar
+            // button2
             // 
-            btnLimpar.Font = new Font("Arial Black", 9.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            btnLimpar.Location = new Point(231, 320);
-            btnLimpar.Name = "btnLimpar";
-            btnLimpar.Size = new Size(99, 43);
-            btnLimpar.TabIndex = 4;
-            btnLimpar.Text = "LIMPAR";
-            btnLimpar.UseVisualStyleBackColor = true;
-            btnLimpar.Click += btnLimpar_Click;
+            button2.Font = new Font("Montserrat", 9.749999F, FontStyle.Bold);
+            button2.Location = new Point(168, 185);
+            button2.Name = "button2";
+            button2.Size = new Size(93, 36);
+            button2.TabIndex = 4;
+            button2.Text = "&LIMPAR";
+            button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
             // 
-            // btnSair
+            // button3
             // 
-            btnSair.Font = new Font("Arial Black", 9.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            btnSair.Location = new Point(231, 378);
-            btnSair.Name = "btnSair";
-            btnSair.Size = new Size(99, 43);
-            btnSair.TabIndex = 5;
-            btnSair.Text = "SAIR";
-            btnSair.UseVisualStyleBackColor = true;
-            btnSair.Click += btnSair_Click;
+            button3.Font = new Font("Montserrat", 9.749999F, FontStyle.Bold);
+            button3.Location = new Point(168, 269);
+            button3.Name = "button3";
+            button3.Size = new Size(93, 36);
+            button3.TabIndex = 5;
+            button3.Text = "&SAIR";
+            button3.UseVisualStyleBackColor = true;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(347, 450);
-            Controls.Add(btnSair);
-            Controls.Add(btnLimpar);
-            Controls.Add(btnCalcular);
-            Controls.Add(lstTabuada);
-            Controls.Add(txtNumero);
-            Controls.Add(lblNumero);
+            ClientSize = new Size(276, 384);
+            Controls.Add(button3);
+            Controls.Add(button2);
+            Controls.Add(button1);
+            Controls.Add(lbResult);
+            Controls.Add(textBox1);
+            Controls.Add(label1);
             Name = "Form1";
             Text = "Tábuada";
             ResumeLayout(false);
@@ -114,11 +114,11 @@
 
         #endregion
 
-        private Label lblNumero;
-        private TextBox txtNumero;
-        private ListBox lstTabuada;
-        private Button btnCalcular;
-        private Button btnLimpar;
-        private Button btnSair;
+        private Label label1;
+        private TextBox textBox1;
+        private ListBox lbResult;
+        private Button button1;
+        private Button button2;
+        private Button button3;
     }
 }
