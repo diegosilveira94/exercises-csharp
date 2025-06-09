@@ -1,0 +1,17 @@
+C:\Users\Windows\OneDrive - SENAC-SC\2025_1\Introdução a Programação\C#\3. PROGRAMAS\EXERCICIOS\exercises-csharp\tabuada\bin\Debug\net8.0-windows\tabuada.exe
+C:\Users\Windows\OneDrive - SENAC-SC\2025_1\Introdução a Programação\C#\3. PROGRAMAS\EXERCICIOS\exercises-csharp\tabuada\bin\Debug\net8.0-windows\tabuada.deps.json
+C:\Users\Windows\OneDrive - SENAC-SC\2025_1\Introdução a Programação\C#\3. PROGRAMAS\EXERCICIOS\exercises-csharp\tabuada\bin\Debug\net8.0-windows\tabuada.runtimeconfig.json
+C:\Users\Windows\OneDrive - SENAC-SC\2025_1\Introdução a Programação\C#\3. PROGRAMAS\EXERCICIOS\exercises-csharp\tabuada\bin\Debug\net8.0-windows\tabuada.dll
+C:\Users\Windows\OneDrive - SENAC-SC\2025_1\Introdução a Programação\C#\3. PROGRAMAS\EXERCICIOS\exercises-csharp\tabuada\bin\Debug\net8.0-windows\tabuada.pdb
+C:\Users\Windows\OneDrive - SENAC-SC\2025_1\Introdução a Programação\C#\3. PROGRAMAS\EXERCICIOS\exercises-csharp\tabuada\obj\Debug\net8.0-windows\tabuada.Form1.resources
+C:\Users\Windows\OneDrive - SENAC-SC\2025_1\Introdução a Programação\C#\3. PROGRAMAS\EXERCICIOS\exercises-csharp\tabuada\obj\Debug\net8.0-windows\tabuada.csproj.GenerateResource.cache
+C:\Users\Windows\OneDrive - SENAC-SC\2025_1\Introdução a Programação\C#\3. PROGRAMAS\EXERCICIOS\exercises-csharp\tabuada\obj\Debug\net8.0-windows\tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\OneDrive - SENAC-SC\2025_1\Introdução a Programação\C#\3. PROGRAMAS\EXERCICIOS\exercises-csharp\tabuada\obj\Debug\net8.0-windows\tabuada.AssemblyInfoInputs.cache
+C:\Users\Windows\OneDrive - SENAC-SC\2025_1\Introdução a Programação\C#\3. PROGRAMAS\EXERCICIOS\exercises-csharp\tabuada\obj\Debug\net8.0-windows\tabuada.AssemblyInfo.cs
+C:\Users\Windows\OneDrive - SENAC-SC\2025_1\Introdução a Programação\C#\3. PROGRAMAS\EXERCICIOS\exercises-csharp\tabuada\obj\Debug\net8.0-windows\tabuada.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive - SENAC-SC\2025_1\Introdução a Programação\C#\3. PROGRAMAS\EXERCICIOS\exercises-csharp\tabuada\obj\Debug\net8.0-windows\tabuada.sourcelink.json
+C:\Users\Windows\OneDrive - SENAC-SC\2025_1\Introdução a Programação\C#\3. PROGRAMAS\EXERCICIOS\exercises-csharp\tabuada\obj\Debug\net8.0-windows\tabuada.dll
+C:\Users\Windows\OneDrive - SENAC-SC\2025_1\Introdução a Programação\C#\3. PROGRAMAS\EXERCICIOS\exercises-csharp\tabuada\obj\Debug\net8.0-windows\refint\tabuada.dll
+C:\Users\Windows\OneDrive - SENAC-SC\2025_1\Introdução a Programação\C#\3. PROGRAMAS\EXERCICIOS\exercises-csharp\tabuada\obj\Debug\net8.0-windows\tabuada.pdb
+C:\Users\Windows\OneDrive - SENAC-SC\2025_1\Introdução a Programação\C#\3. PROGRAMAS\EXERCICIOS\exercises-csharp\tabuada\obj\Debug\net8.0-windows\tabuada.genruntimeconfig.cache
+C:\Users\Windows\OneDrive - SENAC-SC\2025_1\Introdução a Programação\C#\3. PROGRAMAS\EXERCICIOS\exercises-csharp\tabuada\obj\Debug\net8.0-windows\ref\tabuada.dll
